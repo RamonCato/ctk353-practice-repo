@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class FirstComponent : MonoBehaviour
 {
-    public float Movespeed { get; set; } = 5.0f;
+    public float Movespeed { get; set; } = 10.0f;
 
 
 
